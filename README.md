@@ -5,6 +5,5 @@
 
 ## 다운로드 : v1.0 브랜치
 
-![앱 아이콘](Mac_v1/DigitSpanApp/myicon.iconset/icon_256x256.png)
 - 제작 : Jeewon Lee (pome03cogi@gmail.com)
 - python 3.9.2
