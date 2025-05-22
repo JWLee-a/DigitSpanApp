@@ -1,0 +1,3 @@
+([('main',
+   '/Users/jeewon/PycharmProjects/CarrotFarm/DigitSpanApp/dist/main',
+   'EXECUTABLE')],)
