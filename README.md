@@ -10,6 +10,6 @@
 - [git] DigitSpanApp/dist/main.exe 실행파일 다운로드 (이름 변경 가능)
 - [git] Win_vXX(버전명)/dist/DigitSpanSetup 다운로드하여 설치 마법사 실행
 
-- ![앱 아이콘](Mac_v1/DigitSpanApp/myicon.iconset/icon_256x256.png)
+![앱 아이콘](Mac_v1/DigitSpanApp/myicon.iconset/icon_256x256.png)
 - 제작 : Jeewon Lee (pome03cogi@gmail.com)
 - python 3.9.2
