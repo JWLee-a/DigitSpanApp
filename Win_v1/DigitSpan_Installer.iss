@@ -1,11 +1,11 @@
 [Setup]
 AppName=DigitSpan Test
 AppVersion=1.0
-DefaultDirName={pf}\DigitSpanTest
+DefaultDirName={autopf}\DigitSpanTest
 DefaultGroupName=DigitSpan Test
 OutputDir=dist
 OutputBaseFilename=DigitSpanSetup
-SetupIconFile=digitham.ico
+SetupIconFile=C:\Users\ishik\PycharmProjects\DigitSpanApp\Win_v1\DigitSpanApp\digitham.ico
 Compression=lzma
 SolidCompression=yes
 
