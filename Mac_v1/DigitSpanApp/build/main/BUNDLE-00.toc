@@ -1,3 +1,0 @@
-([('main',
-   '/Users/jeewon/PycharmProjects/DigitSpanApp/Mac_v1/DigitSpanApp/dist/main',
-   'EXECUTABLE')],)
