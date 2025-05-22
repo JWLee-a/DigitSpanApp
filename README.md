@@ -3,13 +3,11 @@
 ## 소개
 - Digit-span 테스트를 좀 더 쉽게 시행하기 위해 만들었습니다.
 
-## 다운로드 및 사용방법
-### Mac
-- [git] Mac_vXX(버전명)/ dist/ main 실행파일 다운로드 (이름 변경 가능)
-### Win
-- [git] DigitSpanApp/dist/main.exe 실행파일 다운로드 (이름 변경 가능)
-- [git] Win_vXX(버전명)/dist/DigitSpanSetup 다운로드하여 설치 마법사 실행
+## 다운로드 (v1.0)
+- (Mac 실행파일) DigitSpanApp_mac_v1.0
+- (Win 실행파일) DigitSpanApp_win_v1.0.exe
+- (Win Installer) DigitSpanSetup_v1.0.exe
 
-![앱 아이콘](Mac_v1/DigitSpanApp/myicon.iconset/icon_256x256.png)
+![앱 아이콘](icon_256x256.png)
 - 제작 : Jeewon Lee (pome03cogi@gmail.com)
 - python 3.9.2
