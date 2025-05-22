@@ -35,10 +35,11 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['digitham.icns'],
 )
 app = BUNDLE(
     exe,
     name='main.app',
-    icon=None,
+    icon='digitham.icns',
     bundle_identifier=None,
 )
