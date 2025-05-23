@@ -4,7 +4,7 @@
 - Digit-span 테스트를 좀 더 쉽게 시행하기 위해 만들었습니다.
 
 ## 다운로드 (v1.0)
-- (Mac 실행파일) DigitSpanApp_mac_v1.0
+- (Mac 실행파일) DigitSpanApp_mac_v1.0.dmg
 - (Win 실행파일) DigitSpanApp_win_v1.0.exe
 - (Win Installer) DigitSpanSetup_v1.0.exe
 
